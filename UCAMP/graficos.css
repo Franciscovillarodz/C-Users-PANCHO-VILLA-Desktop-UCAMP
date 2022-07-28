@@ -1,0 +1,225 @@
+body {
+      font: sans-serif;
+      color: #000000;
+      font-size: 12px
+
+}
+
+a {
+  color: #000000;
+
+}
+.BORDES {
+	  font: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; 
+	  display: grid;
+        grid-template-columns: 15% 85%;
+	  padding: 5px;
+	box-shadow: 1px 1px 1px 0px;
+	align-items: center;
+  text-align: center; 
+
+}
+
+.BORDES2 {
+	 font: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; 
+	  display: grid;
+        grid-template-columns: 66% 33%;
+	  padding: 5px;
+	align-items: center;
+	text-align: center padding-top;
+
+  }
+
+
+.BORDES2-5 {
+	 font: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; 
+	  display: grid;
+      grid-template-rows: 33% 33% 33%;
+	  padding: 5px;
+	align-items: center;
+	text-align: center;
+
+}
+
+.BORDES3 {
+	 font: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; ;
+	  display: grid;
+        grid-template-columns: 50% 50%;
+	  padding: 10px;
+	align-items: center;
+ 
+
+  }
+
+.BORDES4 {
+     display: grid;
+      display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; 
+     grid-column-start: 1;
+     grid-column-end: 2 
+
+
+}
+
+.BORDES5 {
+     font: sans-serif;
+       display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; 
+     display: grid;
+  grid-template-columns: auto 15% 15% 15%;
+	  padding: 2px;
+	align-items: center;
+	text-align: center;
+}
+
+
+.BORDES6 {
+     font: sans-serif;
+     font-size: 20px;
+       display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap; 
+     display: grid;
+  grid-template-columns: 70% 10% 10% 10%;
+	  padding: 2px;
+	align-items: center;
+	text-align: center;
+	border-color: #C66A3D;
+	box-shadow: 1px 1px 1px 1px ; 
+
+
+}
+
+
+
+.BORDES7 {
+     font: sans-serif;
+      display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-flow: wrap;  
+     display: grid;
+  grid-template-columns: 40% 20% 40%;
+    padding: 2px;
+  align-items: center;
+  }
+
+.H1 { 
+	padding-top: 10px; 
+	font: sans-serif;
+    color: #000000;
+    font-size: 60px;
+    align-items: center;
+
+}
+
+.H2 { 
+	padding-top: 10px;
+  padding-left: 20px;
+}
+
+.H4 {
+	padding-top: 10px;
+    font: sans-serif;
+    color: #ffffff;
+    font-size: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+.H3 {
+	padding-top: 10px;
+    font: sans-serif;
+    color: #ffffff;
+    font-size: 35px;
+    align-items: center;
+    text-align: center;
+}
+
+.H6 {
+	padding-top: 10px;
+    font: sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    align-items: center;
+    text-align: left;
+}
+
+.H10 {
+font: sans-serif
+
+}
+
+.H3 {
+	padding-top: 10px;
+    font: sans-serif;
+    color: #ffffff;
+    font-size: 35px;
+    align-items: center;
+    text-align: center;
+}
+
+.H11 {
+
+	padding-top: 30px;
+    font: sans-serif;
+    color: #000000;
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+}
+
+.H12 {
+
+	padding-top: 30px;
+    font: sans-serif;
+    color: #000000;
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+
+.H13 {
+
+	padding: 50px;
+    font: sans-serif;
+    color: #000000;
+    font-size: 18px;
+    align-items: center;
+    text-align: left;
+
+
+}
+
+.H14 {
+
+	padding: 50px;
+    font: sans-serif;
+    color: #000000;
+    font-size: 15px;
+    align-items: center;
+    text-align: left;
+
+
+}
